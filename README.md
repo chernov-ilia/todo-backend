@@ -4,6 +4,18 @@ A simple backend for a To-Do List application built with Node.js. You can either
 deploy my [todo-frontend](https://github.com/chernov-ilia/todo-frontend.git) React app. Additionally, a mobile app for
 Android is planned.
 
+## Prerequisites
+
+Before running this project, make sure the following dependencies are installed:
+
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- [MySQL](https://www.mysql.com/) (v8.0 recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+Optional:
+
+- [Postman](https://www.postman.com/) – for testing API endpoints
+
 ## Getting Started
 
 1. Clone the repository:
