@@ -1,0 +1,24 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chernov-ilia/todo-backend.git"
+  },
+  "keywords": [],
+  "author": "Ilia Chernov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chernov-ilia/todo-backend/issues"
+  },
+  "homepage": "https://github.com/chernov-ilia/todo-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "uuid": "^11.1.0"
+  }
+}
